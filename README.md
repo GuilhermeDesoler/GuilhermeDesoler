@@ -72,13 +72,14 @@ my name is Guilherme, I am a mathmatician who decided to venture into programmin
 <h2>GitHub Stats</h2>
 
 <div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDesoler&show_icons=true&theme=dark" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDesoler&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDesoler&show_icons=true&theme=dark"  height="150em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDesoler&theme=dark"  height="150em"/>
 <br>
 </div>
 
 <br>
 
 <div style= "display: flex">
-<h3>Obrigado por let até aqui / Thank you for reading.<h3> &nbsp; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="bye" widht="35" height="25"/>
+<h3>Obrigado por let até aqui / Thank you for reading.<h3> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="bye" widht="35" height="25"/>
 </div>
