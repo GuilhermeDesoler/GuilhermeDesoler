@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <div>
 Olá 👋,
+
 me chamo Guilherme, sou um matemático que resolveu se aventuar em programação. Atualmente desenvolvo front e back-end para páginas e aplicativos mobile e desktop, caso tenha interesse pode verificar alguns de meus trabalhos em meu perfil do [LinkedIn](https://www.linkedin.com/in/guilherme-lima-desoler-69a80810b/) e também passar pelo instagram [@guilhermedesoler](https://www.instagram.com/guilhermedesoler/) onde compartilho um pouco de minha vida em especial minha filha maravilhosa.
 
 <br>
@@ -70,8 +71,8 @@ my name is Guilherme, I am a mathmatician who decided to venture into programmin
 <h2>GitHub Stats</h2>
 
 <div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDesoler&show_icons=true&theme=dark"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDesoler&theme=dark"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDesoler&show_icons=true&theme=dark" width="50%"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDesoler&theme=dark" width="40%"/>
 <br>
 </div>
 
