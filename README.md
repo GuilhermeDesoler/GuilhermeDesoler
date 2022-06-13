@@ -77,6 +77,6 @@ my name is Guilherme, I am a mathmatician who decided to venture into programmin
 <br>
 
 <div align="center">
-<h3>Obrigado por let até aqui / Thank you for reading.<h3> 
+<h3>Obrigado por ler até aqui / Thank you for reading.<h3> 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="bye" widht="35" height="25"/>
 </div>
